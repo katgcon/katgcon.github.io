@@ -1,1 +1,3 @@
-Welcome to my very apealing website!
+git commit -a -m "my website"
+
+
